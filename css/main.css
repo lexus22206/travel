@@ -227,3 +227,17 @@ a {
 	color: #6E7187;
 	margin-right: 72px;
 }
+
+
+
+/*responsive*/
+
+@media (max-width: 1200px) {
+	.container {
+		width: 100%;
+		padding: 0 30px;
+	}
+	.destinations {
+		gap: 30px;
+	}
+}
